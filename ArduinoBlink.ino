@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h>
-const int motorPin = 1;  // define motor pin globally
+const int motorPin = 11;  // define motor pin globally
 int NUM_LEDS = 160;
 int LED_PIN = 6;
 Adafruit_NeoPixel strip(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800);

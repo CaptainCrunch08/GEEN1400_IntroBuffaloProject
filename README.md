@@ -1,7 +1,8 @@
-//Cover Image of buffalo nameplate 1280x650
 # GEEN1400-BuffaloIntroProject
 
 [![Last commit](https://img.shields.io/github/last-commit/CaptainCrunch08/GEEN1400_IntroBuffaloProject)](https://github.com/CaptainCrunch08/GEEN1400_IntroBuffaloProject/commits/main)
+
+<img src="nameplate.jpg" alt="Buffalo sculpture with BUFF ENGINEERS nameplate" width="100%">
 
 This is Arduino/C++ code for a buffalo sculpture that reacts to light.
 

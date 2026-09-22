@@ -20,8 +20,8 @@ const int maxBlinks = 5;
 
 
 // Motor aligned to the same ~12s window as the lights
-const int motorMinSpeed = 100; 
-const int motorMaxSpeed = 255;
+const int motorMinSpeed = 80; 
+const int motorMaxSpeed = 100;
 const unsigned long motorRampUpMs = 13000;  // ease-in across most of the show
 const unsigned long motorRunMs = 14000;     // soft-stop when lights finish
 const int motorRampDownStep = 8;
